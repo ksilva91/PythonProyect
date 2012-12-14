@@ -1,0 +1,5 @@
+#siempre hay que decirle en qué display dibujo
+musica de fondo
+musica de reward
+instrucciones
+pantalla de inicio
